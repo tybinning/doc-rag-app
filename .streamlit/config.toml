@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#fd7e14" # Bright orange for interactive elements
+backgroundColor="#343a40" # Charcoal background
+secondaryBackgroundColor="#495057" # A slightly lighter charcoal for the sidebar
+textColor="#f8f9fa" # Soft white for text
+font="sans serif"

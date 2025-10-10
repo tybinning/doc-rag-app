@@ -1,0 +1,62 @@
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# --- Virtual environments ---
+venv/
+env/
+*.egg-info/
+.eggs/
+
+# --- Logs and outputs ---
+*.log
+*.out
+*.tmp
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+
+
+# --- Build and dependency caches ---
+.cache/
+pip-wheel-metadata/
+build/
+dist/
+site-packages/
+node_modules/
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.token
+*.secret
+credentials.json
+
+# --- Version control ---
+.git/
+.gitignore
+.gitattributes
+.gitmodules
+.hg/
+.svn/
+.bzr/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Not needed for the runtime ---
+notebooks/
+examples/
+tests/
+docs/
+data/raw/
+media/

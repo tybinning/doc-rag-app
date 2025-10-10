@@ -1,0 +1,28 @@
+# Core AI / Vector
+langchain==0.3.0
+chromadb==1.1.1
+sentence-transformers==2.7.0
+torch==2.2.2
+transformers==4.40.2
+peft==0.17.1
+accelerate==1.10.1
+huggingface_hub==0.35.1
+
+# LLM & API
+openai==1.55.3
+python-dotenv==1.0.1
+
+# App Frameworks
+streamlit==1.40.0
+fastapi==0.115.0
+uvicorn==0.30.1
+
+# Utility / Data
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.1
+requests==2.32.3
+
+pdfplumber==0.11.0
+pypdf==3.17.0
+
